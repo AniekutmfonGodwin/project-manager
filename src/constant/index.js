@@ -1,0 +1,43 @@
+module.exports = {
+    creatProject:[
+        'create-project',
+        (arg)=>console.log(arg)
+    ],
+    updateProject:[
+        'update-project',
+        (arg)=>console.log(arg)
+    ],
+    addComment:[
+        'add-comment',
+        (arg)=>console.log(arg)
+    ],
+    deleteProject:[
+        'add-comment',
+        (arg)=>console.log(arg)
+    ],
+    addAttachment:[
+        'add-attachment',
+        (arg)=>console.log(arg)
+    ],
+    createTask:[
+        'add-attachment',
+        (arg)=>console.log(arg)
+    ],
+    updateTask:[
+        'update-task',
+        (arg)=>console.log(arg)
+    ],
+    deleteTask:[
+        'delete-task',
+        (arg)=>console.log(arg)
+    ],
+    createCategory:[
+        'create-category',
+        (arg)=>console.log(arg)
+    ],
+    createColumn:[
+        'create-column',
+        (arg)=>console.log(arg)
+    ]
+    
+}
